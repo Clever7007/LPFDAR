@@ -1,2 +1,1 @@
-# LPFDAR
-Lost Person Face Detection And Recognition
+# Face-Recognition-Based-Attendance-System-Python
